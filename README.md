@@ -93,7 +93,7 @@ The notebooks are numbered in the recommended order of execution:
 4_Model_72hr.ipynb: Trains and evaluates the final 72-hour forecast model.
 
 
-##🔭 Future Work
+## 🔭 Future Work
 Incorporate Advanced Architectures: Experiment with Transformer-based models like Time-Series Transformers for potentially better long-range dependency capture.
 Expand Feature Set: Integrate more weather variables (e.g., wind direction, upper-atmosphere data) to enhance predictive accuracy.
 Extend Forecast Horizon: Work towards extending the reliable forecasting window beyond 72 hours.
